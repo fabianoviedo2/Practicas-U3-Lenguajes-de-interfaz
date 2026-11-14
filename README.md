@@ -10,7 +10,7 @@ INDICE:
 1. [Práctica 1. Procedimientos](U3-01-Procedimientos.asm)
 El programa muestra un mensaje de inicio, repite dos veces un aviso usando un procedimiento y muestra un mensaje de finalización. Al ejecutarlo, comprobé que el procedimiento puede usarse varias veces y regresa al lugar donde fue llamado.
 
-2. [Práctica 2. Llamadas Anidadas](U3-02-Anidados.asm)
+2. [Práctica 2. Anidados](U3-02-Anidados.asm)
 El programa llama a la rutina A y esta llama a la rutina B, mostrando un mensaje en cada paso. Al ejecutarlo, comprobé que primero B regresa a A y después A regresa al programa principal.
    
 3. [Práctica 3. Validación de Entrada](U3-03-ENTRADA.asm)
